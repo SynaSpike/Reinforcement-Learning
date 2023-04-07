@@ -18,3 +18,5 @@ To run the project, follow these steps:
 ```python FrozenLake_QLearning.py``` 
 
 This will generates the Q_table and display the Agents finding its path on the Frozen Lake environment.
+
+![Frozen Lake environment](Images/FrozenLake_env.png)
