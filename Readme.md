@@ -19,4 +19,7 @@ To run the project, follow these steps:
 
 This will generates the Q_table and display the Agents finding its path on the Frozen Lake environment.
 
-![Frozen Lake environment](Images/FrozenLake_env.png)
+
+<div align="center">
+  <img src="Images/FrozenLake_env.png" alt="Frozen Lake environment">
+</div>
